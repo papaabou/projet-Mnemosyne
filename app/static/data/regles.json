@@ -1,0 +1,8 @@
+[
+    {
+        "nom": "fsef",
+        "description": "sdfsdfsdf",
+        "condition": "i.moyenne > 10",
+        "statut": false
+    }
+]
